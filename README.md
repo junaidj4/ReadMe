@@ -11,6 +11,13 @@
 
 - ⚡ Fun fact **The Office US is better than the UK one.**
 
+
+### My featured projects:rocket:
+<code>[Dia](https://www.figma.com/file/9T1RIymJif3DqDUHLQbteS/Dia-(Copy)?node-id=0%3A1&t=qN1at0cKaPaLh16v-1)</code>
+<code>[Human Dilemmas](https://www.figma.com/file/j3qFbFWs1nQqWyN1yuzKh3/Human-Dilemmas-FINAL?node-id=0%3A1&t=3cvF6UTDcjn1Eg7S-0)</code>
+<code>[Tveewest](https://www.figma.com/file/Ec3g3uQSIuNKf2lVaSXvwI/Tweevest-Search-Page?node-id=1%3A1436&t=MPyJ5O8ap5rzXjXd-0)</code>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com//junaid-jamshaidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/junaid-jamshaidd" height="30" width="40" /></a>
